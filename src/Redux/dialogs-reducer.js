@@ -13,10 +13,10 @@ let initialState = {
 
     MessagesData: [
         { id: 1, message: 'Hi' },
-        { id: 2, message: 'I kill you!' },
-        { id: 3, message: 'I kill you too!' },
-        { id: 4, message: 'I kill you!' },
-        { id: 5, message: 'I kill you too!' },
+        { id: 2, message: 'I love you!' },
+        { id: 4, message: 'I love you!' },
+        { id: 3, message: 'I love you too!' },
+        { id: 5, message: 'I love you too!' },
     ],
     NewMessageBody: ''
 
